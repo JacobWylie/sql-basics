@@ -1,3 +1,4 @@
+<a href="https://en.wikipedia.org/wiki/SQL"><img src="https://apigee.com/about/cdn/farfuture/1ZUZJWENRkQZmTpG86KsQ9Fwhqe9U_4BNJ7dSpma63w/mtime:1439316215/sites/mktg-new/files/sql.jpg"></a>
 <h1>SQL Basics</h1>
 <h3><a href="https://github.com/JacobWylie/sql-basics/blob/master/cheatsheat.md">Link to Cheatsheat</a></h3>
 <h3>Definitions</h3>
