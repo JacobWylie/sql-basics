@@ -1,6 +1,5 @@
 <h1>SQL Basics</h1>
-<h4><a href="https://github.com/JacobWylie/sql-basics/blob/master/cheatsheat.md">Link to Cheatsheat</a></h4>
-<br>
+<h3><a href="https://github.com/JacobWylie/sql-basics/blob/master/cheatsheat.md">Link to Cheatsheat</a></h3>
 <h3>Definitions</h3>
 <ul>
 	<li><strong>Syntax: </strong>The vocabulary and grammatical rules surrounding the structure of your code.</li>
